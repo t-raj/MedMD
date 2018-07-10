@@ -1,0 +1,1 @@
+fever,chills,headache,sweating,fatigue,nausea,poor appetite,aches,lethargy,diarrhea,abdominal pain,jaundice,dark urine,joint pain,muscle,pain,bone pain,rash,mild bleeding,agitation,anxiety,confusion,hyperactivity,difficulty swallowing,excessive salivation,hydrophobia,hallucinations,insomnia,partial paralysis,cramps,weight,dehydration,incomplete emptying,flatulence

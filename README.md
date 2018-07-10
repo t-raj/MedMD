@@ -1,2 +1,1 @@
-# MedMD
-A C++ diagnostic aid
+MedMD ranks the likelihood of different medical conditions based on symptoms the user inputs. It displays a list of possible symptoms to the user and prompts them to input as many symptoms as they'd like or type Q to quit entering symptoms. It ranks the conditions from most to least likely based on the symptoms and the percent of the symptoms related to a condition the user entered.
